@@ -120,7 +120,6 @@ description: Zero-Pressure Aesthetic (零压审美) — a calm, minimal, single-
 | **立即 / 赶紧**处理 | 等你有空时 |
 | **必须**打卡 | 记得的话 |
 | 完成**任务** | 做完 / 落定 |
-| **删除** | 清走 / 收起 |
 
 ## 九、Do's & Don'ts
 
