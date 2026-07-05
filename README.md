@@ -20,4 +20,4 @@ Medium-agnostic: works for UI (app / web / mini-program), posters, slides, docum
 
 ## Note
 
-The full guidance lives in **[SKILL.md](SKILL.md)**, written in Chinese — the AI reads it natively, and the aesthetic's roots (its poetry and Morandi "guófēng" palette) are Chinese. This README is a short English overview so it's discoverable to everyone.
+The full guidance lives in **[SKILL.md](SKILL.md)**, written in Chinese — the AI reads it natively. This README is a short English overview so it's discoverable to everyone.
