@@ -1,11 +1,11 @@
 ---
 name: zeropressure-aesthetics
-description: Zero-Pressure Aesthetic (零压审美) — a calm, minimal, single-color (Morandi) visual philosophy: no boxes/borders by default (buttons may have one, cards are a fallback), one accent color for emphasis, small restrained controls, generous whitespace, gentle non-commanding copy. Medium-agnostic — UI (app/web/mini-program), posters, slides, docs, charts. 一套极简、单色（莫兰迪）、安静、不用框框的整体视觉美学思路，不限媒介。Use when designing or styling any visual content, or when the user asks for "zero-pressure aesthetic / minimal / Morandi monochrome / no boxes / 极简 / 莫兰迪单色 / 不要框框 / 安静克制".
+description: Zero-Pressure Aesthetic (零压审美) — a calm, minimal, Morandi-toned visual philosophy: no boxes/borders by default (buttons may have one, cards are a fallback), one accent color for emphasis, small restrained controls, generous whitespace, gentle non-commanding copy. Medium-agnostic — UI (app/web/mini-program), posters, slides, docs, charts. 一套极简、莫兰迪色调、安静、不用框框的整体视觉美学思路，不限媒介。Use when designing or styling any visual content, or when the user asks for "zero-pressure aesthetic / minimal / Morandi tone / no boxes / 极简 / 莫兰迪色调 / 不要框框 / 安静克制".
 ---
 
 # 零压审美
 
-一套**极简、单色、安静**的整体美学思路。三个字概括：**极简，极简，极简。**
+一套**极简、莫兰迪色调、安静**的整体美学思路。三个字概括：**极简，极简，极简。**
 
 它不是某个工具的规范，而是一种**看待"视觉呈现"的态度**——无论做的是一个 App 界面、一张海报、一套幻灯片、一份文档还是一张图表，都可以按它来。
 
@@ -125,7 +125,7 @@ description: Zero-Pressure Aesthetic (零压审美) — a calm, minimal, single-
 
 | 这样做 | 别这样 |
 |---|---|
-| 单色，靠深浅分主次 | 多种颜色堆在一起 |
+| 同一色相，靠深浅分主次 | 多种颜色堆在一起 |
 | 靠标题、细线、留白分区 | 到处套卡片和边框 |
 | 重点色只点睛（因稀有而有力） | 大面积铺重点色、处处强调 |
 | 按钮小而克制 | 一排抢眼的大按钮 |
